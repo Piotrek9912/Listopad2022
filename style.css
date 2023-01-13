@@ -1,0 +1,43 @@
+body{
+    background-color: gray;
+}
+header{
+  position: absolute;
+  left: 33%;
+  top: 2%;
+  width: 450px;
+  height: 90px;
+  background: #DADBAC;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 32px;
+  font-size: 50px;
+  text-align: center;
+
+}
+.square{
+ margin: 0;
+ padding: 0;
+ display:inline-block;
+ width: 912px;
+ height: 48px;
+ text-align: center;
+ font-size: 20px;
+ color:black;
+ display: block;
+ background: #DADBAC;
+ border-radius: 25px;
+
+}
+.square > .poniedzialek{
+
+
+}
+.day_of_the_week{
+  width:10%;
+  height: 100%;
+  text-align: center;
+  border-radius: 10%;
+  border-style: solid;
+  background-color: lightblue;
+
+}
